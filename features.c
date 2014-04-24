@@ -3,4 +3,6 @@ void feature1(){
 }
 void feature2(){
     printf("This is feature 2\n");
+    printf("This is also in feature 2\n");
+
 }
